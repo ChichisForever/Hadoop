@@ -1,0 +1,12 @@
+c:\users\nelson\documents\visual studio 2015\Projects\Graficador\Graficador\bin\Debug\Graficador.exe.config
+c:\users\nelson\documents\visual studio 2015\Projects\Graficador\Graficador\bin\Debug\Graficador.exe
+c:\users\nelson\documents\visual studio 2015\Projects\Graficador\Graficador\bin\Debug\Graficador.pdb
+c:\users\nelson\documents\visual studio 2015\Projects\Graficador\Graficador\obj\Debug\Graficador.csprojResolveAssemblyReference.cache
+c:\users\nelson\documents\visual studio 2015\Projects\Graficador\Graficador\obj\Debug\Graficador.Form1.resources
+c:\users\nelson\documents\visual studio 2015\Projects\Graficador\Graficador\obj\Debug\Graficador.Properties.Resources.resources
+c:\users\nelson\documents\visual studio 2015\Projects\Graficador\Graficador\obj\Debug\Graficador.csproj.GenerateResource.Cache
+c:\users\nelson\documents\visual studio 2015\Projects\Graficador\Graficador\obj\Debug\Graficador.exe
+c:\users\nelson\documents\visual studio 2015\Projects\Graficador\Graficador\obj\Debug\Graficador.pdb
+C:\Users\Nelson\Documents\Visual Studio 2015\Projects\Graficador\Graficador\obj\Debug\Interop.TxDataConvert.dll
+C:\Users\Nelson\Documents\Visual Studio 2015\Projects\Graficador\Graficador\obj\Debug\Interop.TxGroupDups.dll
+C:\Users\Nelson\Documents\Visual Studio 2015\Projects\Graficador\Graficador\obj\Debug\Graficador.csproj.ResolveComReference.cache
