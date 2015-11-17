@@ -1,6 +1,0 @@
-Oracle Database 3	56124
-Oracle Database 5	55556
-Oracle Database 6	111075
-Oracle Database 7	110820
-Oracle Database 8	110957
-Oracle Database 9	55468

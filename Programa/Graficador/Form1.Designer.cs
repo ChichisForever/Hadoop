@@ -357,7 +357,7 @@
             this.tabPage7.Padding = new System.Windows.Forms.Padding(3);
             this.tabPage7.Size = new System.Drawing.Size(831, 419);
             this.tabPage7.TabIndex = 6;
-            this.tabPage7.Text = "Job 9";
+            this.tabPage7.Text = "Job G";
             this.tabPage7.UseVisualStyleBackColor = true;
             // 
             // graficoA
@@ -661,7 +661,7 @@
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(137, 13);
             this.label11.TabIndex = 3;
-            this.label11.Text = "Lista de Codigo de Errores: ";
+            this.label11.Text = "Lista de Codigo de Errores Que Contienen \"I/O o Disk\" : ";
             // 
             // Form1
             // 

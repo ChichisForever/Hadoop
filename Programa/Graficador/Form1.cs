@@ -23,7 +23,7 @@ namespace Graficador
 
             // Read the file and display it line by line.
             System.IO.StreamReader file =
-                new System.IO.StreamReader(@"C:\Users\Nelson\Documents\Visual Studio 2015\Projects\Graficador\Hadoop\JobA.txt");
+                new System.IO.StreamReader(@"C:\Users\liza\Documents\GitHub\Hadoop\TXT_150\JobA.txt");
             while ((line = file.ReadLine()) != null)
             {
                 System.Console.WriteLine(line);
@@ -53,7 +53,7 @@ namespace Graficador
 
             // Read the file and display it line by line.
             System.IO.StreamReader file =
-                new System.IO.StreamReader(@"C:\Users\Nelson\Documents\Visual Studio 2015\Projects\Graficador\Hadoop\JobA.txt");
+                new System.IO.StreamReader(@"C:\Users\liza\Documents\GitHub\Hadoop\TXT_150\JobA.txt");
             while ((line = file.ReadLine()) != null)
             {
                 char[] delimiterChars = { ',', ':',};
@@ -164,7 +164,7 @@ namespace Graficador
 
             // Read the file and display it line by line.
             System.IO.StreamReader file =
-                new System.IO.StreamReader(@"C:\Users\Nelson\Documents\Visual Studio 2015\Projects\Graficador\Hadoop\JobB.txt");
+                new System.IO.StreamReader(@"C:\Users\liza\Documents\GitHub\Hadoop\TXT_150\JobB.txt");
             while ((line = file.ReadLine()) != null)
             {
                 char[] delimiterChars = { ',', ':', };
@@ -288,7 +288,7 @@ namespace Graficador
 
             // Read the file and display it line by line.
             System.IO.StreamReader file =
-                new System.IO.StreamReader(@"C:\Users\Nelson\Documents\Visual Studio 2015\Projects\Graficador\Hadoop\JobC.txt");
+                new System.IO.StreamReader(@"C:\Users\liza\Documents\GitHub\Hadoop\TXT_150\JobC.txt");
             while ((line = file.ReadLine()) != null)
             {
                 char[] delimiterChars = { ',', ':', };
@@ -396,7 +396,7 @@ namespace Graficador
 
             // Read the file and display it line by line.
             System.IO.StreamReader file =
-                new System.IO.StreamReader(@"C:\Users\Nelson\Documents\Visual Studio 2015\Projects\Graficador\Hadoop\JobD.txt");
+                new System.IO.StreamReader(@"C:\Users\liza\Documents\GitHub\Hadoop\TXT_150\JobD.txt");
             while ((line = file.ReadLine()) != null)
             {
                 char[] delimiterChars = { ',', ':', };
@@ -488,7 +488,7 @@ namespace Graficador
 
             // Read the file and display it line by line.
             System.IO.StreamReader file =
-                new System.IO.StreamReader(@"C:\Users\Nelson\Documents\Visual Studio 2015\Projects\Graficador\Hadoop\JobE.txt");
+                new System.IO.StreamReader(@"C:\Users\liza\Documents\GitHub\Hadoop\TXT_150\JobE.txt");
             while ((line = file.ReadLine()) != null)
             {
                 char[] delimiterChars = { ',', ':', };
@@ -576,7 +576,7 @@ namespace Graficador
 
             // Read the file and display it line by line.
             System.IO.StreamReader file =
-                new System.IO.StreamReader(@"C:\Users\Nelson\Documents\Visual Studio 2015\Projects\Graficador\Hadoop\JobF.txt");
+                new System.IO.StreamReader(@"C:\Users\liza\Documents\GitHub\Hadoop\TXT_150\JobF.txt");
             while ((line = file.ReadLine()) != null)
             {
                 char[] delimiterChars = { ',', ':', };
@@ -664,7 +664,7 @@ namespace Graficador
 
             // Read the file and display it line by line.
             System.IO.StreamReader file =
-                new System.IO.StreamReader(@"C:\Users\Nelson\Documents\Visual Studio 2015\Projects\Graficador\Hadoop\JobG.txt");
+                new System.IO.StreamReader(@"C:\Users\liza\Documents\GitHub\Hadoop\TXT_150\JobG.txt");
             while ((line = file.ReadLine()) != null)
             {
                 char[] delimiterChars = { ',', ':', };

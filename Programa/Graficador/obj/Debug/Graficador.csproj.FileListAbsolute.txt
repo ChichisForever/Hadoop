@@ -22,3 +22,15 @@ C:\Users\Nelson\Documents\Visual Studio 2015\Projects\Graficador\Hadoop\Programa
 C:\Users\Nelson\Documents\Visual Studio 2015\Projects\Graficador\Hadoop\Programa\Graficador\obj\Debug\Graficador.Form1.resources
 C:\Users\Nelson\Documents\Visual Studio 2015\Projects\Graficador\Hadoop\Programa\Graficador\obj\Debug\Graficador.Properties.Resources.resources
 C:\Users\Nelson\Documents\Visual Studio 2015\Projects\Graficador\Hadoop\Programa\Graficador\obj\Debug\Graficador.csproj.GenerateResource.Cache
+C:\Users\liza\Documents\GitHub\Hadoop\Programa\Graficador\bin\Debug\Graficador.exe.config
+C:\Users\liza\Documents\GitHub\Hadoop\Programa\Graficador\obj\Debug\Interop.TxDataConvert.dll
+C:\Users\liza\Documents\GitHub\Hadoop\Programa\Graficador\obj\Debug\Interop.TxGroupDups.dll
+C:\Users\liza\Documents\GitHub\Hadoop\Programa\Graficador\obj\Debug\Graficador.csproj.ResolveComReference.cache
+C:\Users\liza\Documents\GitHub\Hadoop\Programa\Graficador\obj\Debug\Graficador.exe
+C:\Users\liza\Documents\GitHub\Hadoop\Programa\Graficador\obj\Debug\Graficador.pdb
+C:\Users\liza\Documents\GitHub\Hadoop\Programa\Graficador\bin\Debug\Graficador.exe
+C:\Users\liza\Documents\GitHub\Hadoop\Programa\Graficador\bin\Debug\Graficador.pdb
+C:\Users\liza\Documents\GitHub\Hadoop\Programa\Graficador\obj\Debug\Graficador.csprojResolveAssemblyReference.cache
+C:\Users\liza\Documents\GitHub\Hadoop\Programa\Graficador\obj\Debug\Graficador.Form1.resources
+C:\Users\liza\Documents\GitHub\Hadoop\Programa\Graficador\obj\Debug\Graficador.Properties.Resources.resources
+C:\Users\liza\Documents\GitHub\Hadoop\Programa\Graficador\obj\Debug\Graficador.csproj.GenerateResource.Cache

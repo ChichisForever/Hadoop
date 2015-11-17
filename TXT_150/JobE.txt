@@ -1,0 +1,4 @@
+Oracle Database,4:	52
+Oracle Database,6:	42
+Oracle Database,7:	24
+Oracle Database,9:	32
